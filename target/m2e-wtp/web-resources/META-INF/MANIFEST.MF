@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: jstl-1.2.jar spring-webmvc-5.3.31.jar spring-aop-5.3.31.jar 
+ spring-core-5.3.31.jar spring-jcl-5.3.31.jar spring-expression-5.3.31.j
+ ar spring-web-5.3.31.jar spring-context-5.3.31.jar spring-beans-5.3.31.
+ jar
+Created-By: Maven Integration for Eclipse
+
